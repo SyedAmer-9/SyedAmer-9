@@ -34,17 +34,12 @@
 - **Architecture:** AWS EKS, DVC, MLflow, Docker.
 - **Key Achievement:** Engineered a multi-stage GitHub Actions pipeline for automated training and artifact versioning.
 - **Observability:** Instrumented API with Prometheus custom metrics to monitor traffic spikes and model health in real-time.
-- 
+  
 #### 3. [Real-Time Object Tracking System](https://github.com/SyedAmer-9/People_Detection_YOLO)
 *High-performance detection system using YOLOv8 and SORT.*
 - **Tech:** YOLOv8, OpenCV, Kalman Filters.
 - **Key Achievement:** Integrated Hungarian Algorithm for persistent ID assignment in occluded scenes and optimized ROI masking for real-time performance.
-
----
-
-### 📊 GitHub Stats
-![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAmer-9&show_icons=true&theme=radical)
-
+  
 ---
 
 ### ⚡ Available for Immediate Hiring
