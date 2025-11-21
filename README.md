@@ -42,7 +42,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAmer-9&show_icons=true&theme=radical)
 
 ---
 
