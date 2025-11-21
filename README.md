@@ -22,13 +22,13 @@
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [End-to-End MLOps Sentiment Analysis System](LINK_TO_REPO)
+#### 1. [End-to-End MLOps Sentiment Analysis System]([LINK_TO_REPO](https://github.com/SyedAmer-9/Capstone_MLOps_Project))
 *A scalable pipeline deployed on AWS EKS with zero-downtime updates.*
 - **Architecture:** AWS EKS, DVC, MLflow, Docker.
 - **Key Achievement:** Engineered a multi-stage GitHub Actions pipeline for automated training and artifact versioning.
 - **Observability:** Instrumented API with Prometheus custom metrics to monitor traffic spikes and model health in real-time.
 
-#### 2. [Real-Time Insurance Prediction Pipeline](LINK_TO_REPO)
+#### 2. [Real-Time Insurance Prediction Pipeline]([LINK_TO_REPO](https://github.com/SyedAmer-9/VEHICLE-INSURANCE-DOMAIN))
 *A modular training pipeline built from scratch without managed tools.*
 - **Architecture:** Python, MongoDB, AWS EC2.
 - **Key Achievement:** Implemented a Lazy-Loading Singleton pattern in FastAPI, **reducing server startup time by 90%**.
@@ -47,4 +47,4 @@
 ---
 
 ### ⚡ Available for Immediate Hiring
-I am looking for roles in **MLOps, AI Engineering, or Backend Development**. I can join immediately.
+I am looking for roles in **MLOps, AI Engineering, or Backend Development**. I can join immediately.Plus is if its remote.
