@@ -1,9 +1,9 @@
 # Hi there, I'm Amer Syed 👋
 ### MLOps Engineer | Kubernetes & AWS Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-blue?style=for-the-badge&logo=github)](https://github.com/SyedAmer-9)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amer.workspace09@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([YOUR_DISCORD_HANDLE](https://discord.com/users/262245371110096897))
 
 > **I don't just train models; I architect production-grade systems.**
 > Specializing in building end-to-end ML pipelines, automating CI/CD, and managing Kubernetes clusters on AWS.
