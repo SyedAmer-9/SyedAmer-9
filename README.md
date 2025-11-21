@@ -22,18 +22,19 @@
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [End-to-End MLOps Sentiment Analysis System](https://github.com/SyedAmer-9/Capstone_MLOps_Project)
-*A scalable pipeline deployed on AWS EKS with zero-downtime updates.*
-- **Architecture:** AWS EKS, DVC, MLflow, Docker.
-- **Key Achievement:** Engineered a multi-stage GitHub Actions pipeline for automated training and artifact versioning.
-- **Observability:** Instrumented API with Prometheus custom metrics to monitor traffic spikes and model health in real-time.
 
-#### 2. [Real-Time Insurance Prediction Pipeline](https://github.com/SyedAmer-9/VEHICLE-INSURANCE-DOMAIN)
+#### 1. [Real-Time Insurance Prediction Pipeline](https://github.com/SyedAmer-9/VEHICLE-INSURANCE-DOMAIN)
 *A modular training pipeline built from scratch without managed tools.*
 - **Architecture:** Python, MongoDB, AWS EC2.
 - **Key Achievement:** Implemented a Lazy-Loading Singleton pattern in FastAPI, **reducing server startup time by 90%**.
 - **DevOps:** Fully dockerized and automated deployment to AWS EC2 via self-hosted GitHub Runners.
 
+#### 2. [End-to-End MLOps Sentiment Analysis System](https://github.com/SyedAmer-9/Capstone_MLOps_Project)
+*A scalable pipeline deployed on AWS EKS with zero-downtime updates.*
+- **Architecture:** AWS EKS, DVC, MLflow, Docker.
+- **Key Achievement:** Engineered a multi-stage GitHub Actions pipeline for automated training and artifact versioning.
+- **Observability:** Instrumented API with Prometheus custom metrics to monitor traffic spikes and model health in real-time.
+- 
 #### 3. [Real-Time Object Tracking System](https://github.com/SyedAmer-9/People_Detection_YOLO)
 *High-performance detection system using YOLOv8 and SORT.*
 - **Tech:** YOLOv8, OpenCV, Kalman Filters.
